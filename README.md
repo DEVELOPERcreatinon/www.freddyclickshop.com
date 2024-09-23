@@ -13,7 +13,7 @@ node server.js
 тип (gems или click), цена, количество
 
 # Пример
-gems,100,10 - 100 кристалов за 10 кликов
+gems,100,10 - 10 кристалов за 100 кликов
 
 ## eng
 
@@ -30,4 +30,4 @@ Go to the data folder and add a line in the following format:
 type (gems or click), price, quantity
 
 # Example
-gems,100,10 - 100 crystals for 10 clicks
+gems,100,10 - 10 crystals for 100 clicks
